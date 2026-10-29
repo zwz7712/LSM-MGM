@@ -26,8 +26,7 @@ The code for the fast implement of the algorithm LSM-MGM. Please cite the follow
 <p align="center">
   <img width="2929" height="2285" alt="test image2" src="images/testImage2.jpg">
 </p>
-<br>The rows in the figure, from top to bottom, correspond to the image sets RS, Print, and FIRE The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1 score, respectively.
-
+<br>The rows in the figure, from top to bottom, correspond to the image sets RS, Print, and FIRE. The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1 score, respectively.
 
 ## Datasets
 <br>DAISY:https://www.epfl.ch/labs/cvlab/software/descriptors-and-keypoints/daisy/
