@@ -21,13 +21,13 @@ We have provided an example with tuned initialization and parameters for GCPD in
 
 ### Other comparison results with algorithm LSM-MGM
 <p align="center">
-  <img width="2929" height="3086" alt="test image1" src="data/figureImages/testImage1.jpg">
+  <img width="2929" height="3086" alt="test image1" src="data/figureImage/testImage1.jpg">
 </p>
 <br>The rows in the figure, from top to bottom, correspond to the image sets DAISY, DTU, VGG, HEINLY, and MegaDepth1500. The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1 score, respectively.
 <br>
 <br>
 <p align="center">
-  <img width="2929" height="2285" alt="test image2" src="data/figureImages/testImage2.jpg">
+  <img width="2929" height="2285" alt="test image2" src="data/figureImage/testImage2.jpg">
 </p>
 <br>The rows in the figure, from top to bottom, correspond to the image sets RS, Print, and FIRE. The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1 score, respectively.
 
