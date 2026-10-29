@@ -1,9 +1,12 @@
 # LSM-MGM
-The code for the fast implement of the algorithm LSM-MGM. Please cite the following paper if using any codes here.
+The code for the fast implement of the paper "An Improved Neighborhood-based Mismatch Removal Algorithm for Consumer Device". Please cite the following paper if using any codes here.
 
 ## An Improved Neighborhood-Based Mismatch Removal Algorithm for Consumer Device
 <br>Haotian Zhang , Wenlong Hou, Ning Jia , and Weidong Zhao<br>
 [DOI 10.1109/TCE.2024.3409774](https://ieeexplore.ieee.org/document/10549964/)
+
+## Usage
+We have provided an example with tuned initialization and parameters for GCPD in Example.m. Directly running Example.m would give the result.
 
 ## The comparative test codes
 <br>LPM: https://github.com/jiayi-ma/LPM. and https://github.com/jiayi-ma/LPM-GC.
@@ -37,4 +40,4 @@ The code for the fast implement of the algorithm LSM-MGM. Please cite the follow
 <br>RS: https://github.com/jiayi-ma/GLPM/tree/master
 <br>FIRE: https://www.ics.forth.gr/cvrl/fire/
 <br>Print: The images obtained in "Print" dataset  are sourced from a private engineering project.
-
+<br>SMVS: https://exhibits.stanford.edu/data/catalog/rb470rw0983
