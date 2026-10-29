@@ -6,7 +6,7 @@ The code for the fast implement of the paper "An Improved Neighborhood-based Mis
 [DOI 10.1109/TCE.2024.3409774](https://ieeexplore.ieee.org/document/10549964/)
 
 ## Usage
-We have provided an example with tuned initialization and parameters for GCPD in Example.m. Directly running Example.m would give the result.
+We have provided an example with tuned initialization and parameters for LSM-MGM in example.m. Directly running example.m would give the result.
 
 ## The comparative test codes
 <br>LPM: https://github.com/jiayi-ma/LPM. and https://github.com/jiayi-ma/LPM-GC.
