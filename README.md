@@ -12,13 +12,12 @@ The code for the fast implement of the algorithm LSM-MGM. Please cite the follow
 <br>EAS-A: https://github.com/AoxiangFan/EifficientDeterministicSearch.
 <br>LOGO: https://github.com/XiaYifan1999/LOGO
 ### Other comparison results with algorithm LSM-MGM, along with the codes for the comparison methods.
-<br>
 <p align="center">
   <img width="2929" height="3806" alt="test image1" src="images/testImage1.jpg">
 </p>
 <br>The rows of image sets in the test image1, from top to bottom, correspond to: DAISY, DTU, VGG, and HEINLY. The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1-score, respectively.
 
-## Datasetes
+## Datasets
 <br>FIRE: https://www.ics.forth.gr/cvrl/fire/
 <br>STARE: http://cecas.clemson.edu/~ahoover/stare/
 <br>HRF: http://www5.informatik.uni-erlangen.de/research/data/fundus-images/
