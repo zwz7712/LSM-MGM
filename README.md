@@ -15,9 +15,10 @@ The code for the fast implement of the algorithm LSM-MGM. Please cite the follow
 <br>LCT:https://github.com/gwang-cv/LCT.
 <br>ConvMatch:https://github.com/SuhZhang/ConvMatch/tree/convmatch_plus.
 <br>CHCANet:https://github.com/gwang-cv/CHCANet.
+
 ### Other comparison results with algorithm LSM-MGM
 <p align="center">
-  <img width="2929" height="3806" alt="test image1" src="images/testImage1.jpg">
+  <img width="1400" height="1827" alt="test image1" src="images/testImage1.jpg">
 </p>
 <br>The rows of image sets in the figure, from top to bottom, correspond to: DAISY, DTU, VGG, and HEINLY. The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1-score, respectively.
 <br>
