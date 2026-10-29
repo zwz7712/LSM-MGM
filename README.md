@@ -12,7 +12,7 @@ The code for the fast implement of the algorithm LSM-MGM. Please cite the follow
 <br>EAS-A: https://github.com/AoxiangFan/EifficientDeterministicSearch.
 <br>LOGO: https://github.com/XiaYifan1999/LOGO
 ### Other comparison results with algorithm LSM-MGM, along with the codes for the comparison methods.
-<br>![Uploading 3.6V2.jpg…]()
+<br>
 
 ## Datasetes
 <br>FIRE: https://www.ics.forth.gr/cvrl/fire/
