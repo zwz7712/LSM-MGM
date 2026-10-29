@@ -20,19 +20,21 @@ The code for the fast implement of the algorithm LSM-MGM. Please cite the follow
 <p align="center">
   <img width="1400" height="1827" alt="test image1" src="images/testImage1.jpg">
 </p>
-<br>The rows of image sets in the figure, from top to bottom, correspond to: DAISY, DTU, VGG, and HEINLY. The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1-score, respectively.
+<br>The rows in the figure, from top to bottom, correspond to the image sets DAISY, DTU, VGG, HEINLY, and MegaDepth1500. The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1 score, respectively.
 <br>
 <br>
 <p align="center">
   <img width="2929" height="2285" alt="test image2" src="images/testImage2.jpg">
 </p>
-<br>The rows of image sets in the figure, from top to bottom, correspond to: RS, Print, and FIRE The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1-score, respectively.
+<br>The rows in the figure, from top to bottom, correspond to the image sets RS, Print, and FIRE The columns, from left to right, show the cumulative distributions of the inlier ratio, recall, precision, and F1 score, respectively.
+
 
 ## Datasets
 <br>DAISY:https://www.epfl.ch/labs/cvlab/software/descriptors-and-keypoints/daisy/
 <br>DTU:https://roboimagedata.compute.dtu.dk/
 <br>VGG:https://www.robots.ox.ac.uk/~vgg/research/affine/
 <br>HEINLY:https://www.cs.unc.edu/~jheinly/binary_descriptors.html
+<br>MegaDepth1500:https://www.cs.cornell.edu/projects/megadepth/ and https://cvg-data.inf.ethz.ch/megadepth/
 <br>RS:https://github.com/jiayi-ma/GLPM/tree/master
 <br>FIRE: https://www.ics.forth.gr/cvrl/fire/
 <br>Print:The images obtained in "Print" dataset  are sourced from a private engineering project.
